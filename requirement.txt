@@ -1,1 +1,6 @@
+rich
+regex
+argparse
+requests
+jsonschema
 
